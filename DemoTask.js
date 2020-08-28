@@ -1,6 +1,7 @@
 /**
  * Step For Configuration 
- * 
+ * Install Node
+ * Install the npm
  * Install the puppeteer with command npm install -g puppeteer
  * After Installation write a command like node .\DemoTask.js
  * If you want to execute it in UI base just follow the belows commands
